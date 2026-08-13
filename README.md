@@ -1,4 +1,4 @@
-# Self-study-notes-for-Mathematics-Majors
+# Self-learning-notes-for-Mathematics-Majors
 
 # 高等代数 Advanced Algebra
 
@@ -11,3 +11,5 @@ As an extended algebra course of *Algebra and Geometry*, a compulsory foundation
 《解析几何》为哈工大工科必修基础课《代数与几何》的几何部分延伸课程，以坐标与向量为工具、用代数方法系统刻画几何对象与几何变换为核心教学目标。利用 B 站公开视频资源 https://www.bilibili.com/video/BV1Ui421a7fw ，配套丘维声《解析几何》教材完成学习：从向量代数与空间直角坐标系切入，建立点、向量与坐标的对应关系；依次研究平面与空间直线的方程及位置关系，推导柱面、锥面、旋转面与五类二次曲面的方程及几何特征；随后进入二次曲线一般理论，系统梳理中心、渐近方向、直径、共轭直径与切线的代数刻画及几何意义；最后探讨正交变换、仿射变换对几何图形的作用，建立度量性质与仿射性质的区分。<br>
 
 As an extended geometry course of *Algebra and Geometry*, a compulsory foundational subject for engineering majors at Harbin Institute of Technology, Analytic Geometry centers on systematically characterizing geometric objects and transformations by algebraic methods, with coordinates and vectors as the fundamental tools. This study is carried out with the support of a public video collection on Bilibili( https://www.bilibili.com/video/BV1Ui421a7fw ), accompanied by the textbook *Analytic Geometry* by Qiu Weisheng. Starting from vector algebra and the spatial rectangular coordinate system, we establish the correspondence among points, vectors and coordinates. We then investigate in turn the equations and positional relations of planes and spatial lines, and derive the equations and geometric features of cylindrical surfaces, conical surfaces, surfaces of revolution and the five classes of quadric surfaces. Afterwards, we move to the general theory of quadratic curves, systematically sorting out the algebraic characterization and geometric significance of centers, asymptotic directions, diameters, conjugate diameters and tangent lines. Finally, we discuss the effects of orthogonal transformations and affine transformations on geometric figures, establishing the distinction between metric properties and affine properties.<br>
+
+# 矩阵分析
